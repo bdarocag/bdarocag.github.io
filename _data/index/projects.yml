@@ -1,0 +1,4 @@
+- name: Insert_project_name
+  descr: "Insert_project_description"
+  image: example_image.png
+  github: github_repository_project

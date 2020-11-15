@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: R, Python, SQL, Machine Learning, English
+percentage: 80, 60, 50, 70, 50

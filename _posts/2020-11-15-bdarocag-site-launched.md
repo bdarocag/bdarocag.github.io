@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Hank Quinlan, Horrible Cop, Launches Site"
-categories: [java]
-tags: [java]
+categories: [opinion]
+tags: [opinion]
 date: 2014-04-30
 ---
 

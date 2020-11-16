@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: bdarocag
+title: Brayan David Aroca Gonzalez
 email: bdarocag@gmail.com
-description: Blog de Brayan David Aroca Gonzalez,powered by jekyll.
+description: Blog de Brayan David Aroca Gonzalez, powered by jekyll.
 url: https://bdarocag.github.io # the base hostname & protocol for your site
 keywords: ["jekyll","Biostatistics", "R", "Python","blog"]
 

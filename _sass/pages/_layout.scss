@@ -47,6 +47,7 @@
   @include media-query($medium-screen) {
     text-align: right;
     margin: 0 auto;
+    text-transform: capitalize;
     padding: 0 0px 80px;
   }
 }

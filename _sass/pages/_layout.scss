@@ -42,12 +42,12 @@
   }
   .author_bio {
     font-size: 90%;
+    text-transform: none;
     display: block;
   }
   @include media-query($medium-screen) {
     text-align: right;
     margin: 0 auto;
-    text-transform: none;
     padding: 0 0px 80px;
   }
 }

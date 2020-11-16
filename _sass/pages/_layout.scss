@@ -79,7 +79,7 @@
     zoom: 1;
     & a {
       margin-top: 1em;
-      text-transform: lowercase;
+      text-transform: capitalize;
       font-size: 85%;
       color: $secondary;
       &:hover,

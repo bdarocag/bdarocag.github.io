@@ -4,7 +4,7 @@
 ---
 ## Tesis
 
-En este apartado, presento los trabajos de investigación realizados en las diferentes etapas de mi carrera profesional con el fin de optar por los titulos de Licenciado en Biología y Magíster en Bioestadística de la [Universidad Distrital Francisco José de Caldas](http://licbiologia.udistrital.edu.co:8080/ "UD Lic. en Biología") y la [Universidad Manuela Beltrán](https://umb.edu.co/programa/maestria-en-bioestadistica/ "UMB Maestría en Bioestadística") respectivamente.
+<div style="text-align: justify;"> En este apartado, presento los trabajos de investigación realizados en las diferentes etapas de mi carrera profesional con el fin de optar por los titulos de Licenciado en Biología y Magíster en Bioestadística de la [Universidad Distrital Francisco José de Caldas](http://licbiologia.udistrital.edu.co:8080/ "UD Lic. en Biología") y la [Universidad Manuela Beltrán](https://umb.edu.co/programa/maestria-en-bioestadistica/ "UMB Maestría en Bioestadística") respectivamente.</div>
 <br>
 
 ### **Futuras extinciones de los primates Colombianos:**

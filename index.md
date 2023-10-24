@@ -9,7 +9,7 @@
 
 ### **Futuras extinciones de los primates Colombianos:**
 
-[![Open Research Thesis](https://img.shields.io/badge/PDF-Open_Research_Thesis?logo=adobe-acrobat-reader&logoColor=white&label=PDF&color=red)](pdf/bdag_mg_thesis.pdf)
+[![Open Research Thesis](https://img.shields.io/badge/PDF-Thesis_Document-red?logo=adobe-acrobat-reader&logoColor=white)](pdf/bdag_mg_thesis.pdf)
 
 <center><img src="images/bdag_mg_thesis_img.png"/></center>  
 <br>
